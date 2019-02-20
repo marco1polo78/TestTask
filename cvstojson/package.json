@@ -1,0 +1,19 @@
+{
+  "name": "cvtojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cvstojson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.4.13",
+    "csv-stream-to-json": "^1.0.1",
+    "extract-zip": "^1.6.7",
+    "fs-extra": "^7.0.1",
+    "moment": "^2.24.0",
+    "node-zip": "^1.1.1"
+  }
+}
